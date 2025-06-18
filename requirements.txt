@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
-seaborn
+scipy
 matplotlib
+openpyxl
 xlsxwriter
